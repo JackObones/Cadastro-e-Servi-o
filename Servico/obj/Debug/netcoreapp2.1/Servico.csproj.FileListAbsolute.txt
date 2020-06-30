@@ -1,0 +1,11 @@
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 9\Servico\Servico\bin\Debug\netcoreapp2.1\Servico.deps.json
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 9\Servico\Servico\bin\Debug\netcoreapp2.1\Servico.runtimeconfig.json
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 9\Servico\Servico\bin\Debug\netcoreapp2.1\Servico.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 9\Servico\Servico\bin\Debug\netcoreapp2.1\Servico.dll
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 9\Servico\Servico\bin\Debug\netcoreapp2.1\Servico.pdb
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 9\Servico\Servico\obj\Debug\netcoreapp2.1\Servico.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 9\Servico\Servico\obj\Debug\netcoreapp2.1\Servico.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 9\Servico\Servico\obj\Debug\netcoreapp2.1\Servico.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 9\Servico\Servico\obj\Debug\netcoreapp2.1\Servico.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 9\Servico\Servico\obj\Debug\netcoreapp2.1\Servico.dll
+C:\Users\Gustavo\Desktop\C#Exercicios\Sessão 9\Servico\Servico\obj\Debug\netcoreapp2.1\Servico.pdb
